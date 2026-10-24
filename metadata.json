@@ -1,0 +1,8 @@
+{
+  "name": "MethodFlow — Step-by-Step Guide Creator & Runner",
+  "description": "Document, organize, and follow recipes, DIY builds, software setups, and lifehack procedures with interactive step tracking, timers, and progress visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
